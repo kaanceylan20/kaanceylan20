@@ -52,8 +52,6 @@ Hello, my name is **Efe Kaan Ceylan**. I am a software developer and a student e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/star-fill.svg" height="50">
-
 
 </p>
 
